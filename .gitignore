@@ -9,3 +9,8 @@ desktop.ini
 # Temporary files
 *.tmp
 ~$*
+
+# Node
+node_modules/
+package.json
+package-lock.json
