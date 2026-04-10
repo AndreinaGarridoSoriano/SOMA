@@ -5,7 +5,7 @@
 
 ## 1. What We're Making
 
-SOMA is a liquid concentrate that adds flavour, electrolytes, vitamins, and botanical ingredients to water. The format is a 30 mL squeezable bottle (like Buoy) — one squeeze = one serving.
+SOMA is a liquid concentrate that adds flavour, electrolytes, vitamins, and botanical ingredients to water. The format is a 60 mL squeezable bottle (like Buoy) — one squeeze (~2 mL) = one serving.
 
 - **2 SKUs at launch:** LEMON (Hydrate + Soothe) and BERRY (Hydrate + Antioxidants)
 - **Target price:** EUR 15-20 per bottle (EUR 0.50-0.70 per serving)
@@ -34,12 +34,12 @@ SOMA is a liquid concentrate that adds flavour, electrolytes, vitamins, and bota
 
 ### Product
 - Type: Liquid concentrate (food supplement)
-- Format: 30 mL squeezable bottle, ~30 doses
-- Dosing: ~1 mL per squeeze (no measuring needed)
+- Format: 60 mL squeezable bottle, ~30 doses
+- Dosing: ~2 mL per squeeze (no measuring needed)
 - Sugar-free, no artificial colours
 - Clean label approach
 
-### Formula (V1.5) — Per Serving (~1 mL)
+### Formula (V1.5) — Per Serving (~2 mL)
 
 **Base:** Purified Water, Natural Fruit Extract, Citric Acid, Malic Acid
 
@@ -67,7 +67,7 @@ SOMA is a liquid concentrate that adds flavour, electrolytes, vitamins, and bota
 **Preservative:** Potassium Sorbate or natural alternative (e.g., rosemary extract)
 
 ### Packaging
-- Bottle: 30 mL soft-touch squeezable plastic (HDPE or LDPE)
+- Bottle: 60 mL soft-touch squeezable plastic (HDPE or LDPE)
 - Cap: Squirt/squeeze nozzle (not dropper)
 - Cap colour: customizable per SKU (yellow for Lemon, pink for Berry)
 - Finish: Matte preferred
@@ -100,7 +100,7 @@ SOMA is a liquid concentrate that adds flavour, electrolytes, vitamins, and bota
 
 ### B. Formulation
 6. Can you develop from our ingredient specs and dose ranges?
-7. Is it viable to fit all these actives in 1 mL of concentrate?
+7. Is it viable to fit all these actives in 2 mL of concentrate?
 8. Is micellized/water-soluble Vitamin D3 available for this format?
 9. Can Zinc Citrate remain stable in an acidic liquid base long-term?
 10. How do you handle flavour development? Tasting samples?
@@ -144,7 +144,7 @@ SOMA is a liquid concentrate that adds flavour, electrolytes, vitamins, and bota
 ## 6. Non-Negotiable Requirements
 
 - **Squeeze/squirt format** — core to the brand. If only droppers, wrong partner.
-- **1 mL per serving** — the simplicity of "one squeeze" IS the product.
+- **2 mL per serving** — the simplicity of "one squeeze" IS the product.
 - **Zero sugar, zero artificial colours** — Stevia only.
 - **12-month minimum shelf life** — needed for retail and logistics.
 - **Real electrolyte doses** — not symbolic amounts. Functional doses.
@@ -168,7 +168,7 @@ Buenas tardes,
 
 Somos SOMA, una marca de hidratacion funcional que lanzaremos en
 Madrid y Londres. Nuestro producto es un concentrado liquido en
-botella squeeze de 30 mL (similar a Buoy) con electrolitos,
+botella squeeze de 60 mL (similar a Buoy) con electrolitos,
 vitaminas (incluyendo D3 y Zinc) e ingredientes botanicos.
 
 Buscamos un laboratorio partner para:

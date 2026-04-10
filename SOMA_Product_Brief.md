@@ -8,7 +8,7 @@
 
 SOMA is a liquid concentrate that adds flavour, electrolytes, and functional wellness ingredients to regular water. Designed for daily wellness hydration — not sports-only, not medical, not sugary. Clean, functional, beautiful.
 
-The product comes in a pocket-sized 30 mL squeeze/squirt bottle (like Buoy) that makes upgrading your water effortless: one squeeze and you're done.
+The product comes in a pocket-sized 60 mL squeeze/squirt bottle (like Buoy) that makes upgrading your water effortless: one squeeze and you're done.
 
 ---
 
@@ -30,8 +30,8 @@ The product comes in a pocket-sized 30 mL squeeze/squirt bottle (like Buoy) that
 
 | Spec | Detail |
 |---|---|
-| Format | Liquid concentrate in 30 mL squeeze/squirt bottle |
-| Serving | 1 mL (~1 squeeze) per 250-500 mL of water |
+| Format | Liquid concentrate in 60 mL squeeze/squirt bottle |
+| Serving | 2 mL (~1 squeeze) per 250-500 mL of water |
 | Servings/bottle | 30 |
 | Target price | EUR 15-20 per bottle (EUR 0.50-0.70/serving) |
 | Positioning | Daily wellness hydration with electrolytes, vitamins & botanicals |
@@ -75,9 +75,9 @@ Same electrolyte, vitamin, and mineral backbone as Lemon.
 
 | Element | Direction |
 |---|---|
-| Format | 30 mL soft-touch matte squeezable plastic |
+| Format | 60 mL soft-touch matte squeezable plastic |
 | Shape | Rounded, compact, pocket-sized. Perfume-bottle proportions |
-| Dispensing | Squish/squirt nozzle. One squeeze = 1 mL serving |
+| Dispensing | Squish/squirt nozzle. One squeeze = 2 mL serving |
 | Base colour | Cream matte (#F5F0E8), unified across SKUs |
 | Cap | SKU accent colour: Yellow (#F2C94C) for Lemon, Pink (#D94F7A) for Berry |
 | Front label | Type-forward: small SOMA wordmark top, large LEMON/BERRY centre, descriptor below |

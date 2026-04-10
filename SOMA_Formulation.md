@@ -9,8 +9,8 @@
 | Spec | Detail |
 |---|---|
 | Type | Liquid concentrate for water flavouring |
-| Bottle | 30 mL soft-touch squeezable (squish/squirt, like Buoy) |
-| Serving | ~1 mL per squeeze |
+| Bottle | 60 mL soft-touch squeezable (squish/squirt, like Buoy) |
+| Serving | ~2 mL per squeeze |
 | Servings/bottle | 30 |
 | Usage | Squeeze into 250-500 mL of water |
 | Shelf life target | 12 months minimum |
@@ -23,7 +23,7 @@
 
 **Label (in order):** Purified Water, Natural Lemon Extract, Citric Acid, Malic Acid, Sodium Citrate, Potassium Citrate, Magnesium Citrate, Vitamin C (Ascorbic Acid), Niacin (Vitamin B3), Pantothenic Acid (Vitamin B5), Vitamin B6 (Pyridoxine HCl), Vitamin B12 (Cyanocobalamin), Cholecalciferol (Vitamin D3), Zinc Citrate, Aloe Vera Extract, Stevia Leaf Extract (Reb A), Potassium Sorbate.
 
-### Active Ingredients per serving (~1 mL)
+### Active Ingredients per serving (~2 mL)
 
 #### Electrolytes
 | Ingredient | Dose/serving | Purpose | EU-approved claim |
@@ -89,9 +89,9 @@ All electrolytes, vitamins, minerals, sweetener, and preservative are **identica
 | Ingredient | Why it was excluded before | Why we're adding it |
 |---|---|---|
 | Vitamin D3 | "Poor solubility in water-based drops" | Available in micellized/water-soluble form. Huge marketing differentiator — 80% of Europeans are deficient. Almost no water enhancer includes it. |
-| Zinc Citrate | "Off-taste and formulation complexity" | At 1.5-2.5 mg, perfectly soluble in acidic pH (citric + malic acid base). Immune + skin health story. |
-| Vitamin B3 (Niacin) | "Too many vitamins create bitterness" | At 4-8 mg, negligible taste impact. Adds EFSA-approved fatigue claim. |
-| Vitamin B5 (Pantothenic Acid) | "Too many vitamins create bitterness" | At 1.5-3 mg, negligible taste impact. Adds mental performance claim. |
+| Zinc Citrate | "Off-taste and formulation complexity" | At 1.5-2.5 mg in 2 mL, perfectly soluble in acidic pH (citric + malic acid base). Immune + skin health story. |
+| Vitamin B3 (Niacin) | "Too many vitamins create bitterness" | At 4-8 mg in 2 mL, negligible taste impact. Adds EFSA-approved fatigue claim. |
+| Vitamin B5 (Pantothenic Acid) | "Too many vitamins create bitterness" | At 1.5-3 mg in 2 mL, negligible taste impact. Adds mental performance claim. |
 
 ## What we deliberately excluded (and why)
 
@@ -136,7 +136,7 @@ Builds on V1.5 backbone and adds:
 2. Can you do a taste comparison sample: with vs without B3+B5?
 3. What preservative system do you recommend for 12-month shelf life?
 4. Are all proposed doses within EU regulatory limits for food supplements?
-5. Can the acidic base (citric + malic) maintain zinc citrate in solution long-term?
+5. With 2 mL per serving (60 mL bottle, 30 doses), is solubility easier than with 1 mL?
 
 ---
 
